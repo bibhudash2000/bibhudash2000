@@ -1,7 +1,4 @@
-- 👋 Hi, I’m Bibhu Dutta Dash (@bibhudash2000)
-- 👀 I’m interested in developing web-apps with javaee and android
-- 🌱 I’m currently learning javaee
-- 💞️ I’m looking to collaborate on new Project ideas
+- 👋 Hi, I’m Bibhu Dash (@bibhudash2000)
 - 📫 Reach me with - (Email) bibhudash2000@gmail.com
 
 <!---
